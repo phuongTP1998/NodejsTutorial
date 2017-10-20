@@ -1,0 +1,1 @@
+{"foods":[{"foodName":"Cream Tea","foodDescription":"This is a cup of cream tea"},{"foodName":"Japanese Salad","foodDescription":"Very delicious"}],"resultCode":200,"restaurantName":"Sasimi BBQ","address":"73 Khu 2 Dai Phuc"}
